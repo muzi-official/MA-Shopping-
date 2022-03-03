@@ -1,0 +1,16 @@
+.footer {
+  border-top: 2px solid rgba(0, 0, 0, 0.12);
+  height: 3rem;
+  width: 100% !important;
+  font-size: 14px !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  color: rgba(34, 48, 74) !important;
+  background: #fff;
+}
+
+.footer a {
+  line-height: 3rem;
+  color: rgb(41, 101, 190) !important;
+  text-decoration: none;
+  font-size: 15px !important;
+}
